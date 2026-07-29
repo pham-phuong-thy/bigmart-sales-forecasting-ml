@@ -47,7 +47,7 @@ BigMart-Sales-Prediction/
 ├── notebooks/
 ├── images/
 ├── outputs/
-├── README.md
+├── readme.md
 └── requirements.txt
 ```
 
