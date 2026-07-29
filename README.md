@@ -120,3 +120,43 @@ Translate model findings into retail recommendations.
 
 ## Repository Structure
 
+BigMart-Sales-Forecasting/
+│
+├── data/
+│ ├── train.csv
+│
+├── notebooks/
+│ └── BigMart_Sales_Forecasting.ipynb
+│
+├── images/
+│ ├── feature_importance.png
+│ ├── prediction_result.png
+│
+├── README.md
+└── requirements.txt
+
+---
+
+## Key Results
+
+- Developed four regression models.
+- Applied feature engineering to improve predictive performance.
+- Tuned model parameters using cross-validation.
+- Identified the most influential sales drivers.
+- Generated business recommendations based on model interpretation.
+
+---
+
+## Future Improvements
+
+- LightGBM
+- CatBoost
+- SHAP Explainability
+- Time-series forecasting
+- Model deployment with Streamlit
+
+---
+
+## Author
+
+Pham Phuong Thy
